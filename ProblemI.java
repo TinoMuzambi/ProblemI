@@ -40,7 +40,7 @@ public class ProblemI {
     }
 }
 
-
+//Sample input
 /*
 B 183-5724 17 58 18 04
 A 183-5724 17 58 20 12
